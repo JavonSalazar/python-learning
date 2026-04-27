@@ -1,6 +1,6 @@
-# Homework 5
+# Homework 7
 # Name: Javon Salazar
-# Date: 3/20/26
+# Date: 4/17/26
 #Description: This homework covers over lecture 12 unit 3.
 
 #Exercise 1
