@@ -1,7 +1,7 @@
 # Homework 4
 # Name: Javon Salazar
 # Date: 3/20/26
-#Description: 
+#Description: This homework covers over Polymorphism and abstract classes, Class methods and static methods, Operator overloading and magic methods.
 
 #Problem 1: Employee Payroll System
 from abc import ABC, abstractmethod
